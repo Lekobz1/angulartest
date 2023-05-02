@@ -1,0 +1,9 @@
+.sec{
+  background-color: red;
+  width: 70%;
+  border: 1px solid blue;
+  position: absolute;
+  top: auto;
+  right: 30%;
+  height: 100%;
+}

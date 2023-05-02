@@ -1,0 +1,9 @@
+.rightside{
+  background-color: aquamarine;
+  width: 30%;
+  height: 100%;
+  border: 1px solid blue;
+  position: absolute;
+  top: auto;
+  left: 70%;
+}

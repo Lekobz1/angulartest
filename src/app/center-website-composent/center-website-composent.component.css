@@ -1,0 +1,9 @@
+.bim{
+  background-color: purple;
+  width: 100%;
+  border: 1px solid blue;
+  position: absolute;
+  top: auto;
+  height: 10%;
+}
+
